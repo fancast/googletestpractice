@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\OpenDDS-3.16\OpenDDS-3.16\tests\googletest\build\CMakeFiles\f352cb96bb9be14ad2cb2b00ed0a535e\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4AA21ED4-A977-3560-B79C-24962DC9D920}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
