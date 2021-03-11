@@ -1,0 +1,14 @@
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/CMakeFiles/INSTALL.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/CMakeFiles/RUN_TESTS.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/CMakeFiles/ALL_BUILD.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/CMakeFiles/ZERO_CHECK.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googlemock/CMakeFiles/INSTALL.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googlemock/CMakeFiles/RUN_TESTS.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googlemock/CMakeFiles/gmock_main.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googlemock/CMakeFiles/gmock.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googletest/CMakeFiles/gtest.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googletest/CMakeFiles/gtest_main.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googletest/CMakeFiles/INSTALL.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googletest/CMakeFiles/RUN_TESTS.dir
+C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/googletest/CMakeFiles/ALL_BUILD.dir
