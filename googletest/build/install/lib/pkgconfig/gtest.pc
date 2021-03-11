@@ -1,0 +1,9 @@
+libdir=C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/install/lib
+includedir=C:/OpenDDS-3.16/OpenDDS-3.16/tests/googletest/build/install/include
+
+Name: gtest
+Description: GoogleTest (without main() function)
+Version: 1.10.0
+URL: https://github.com/google/googletest
+Libs: -L${libdir} -lgtest 
+Cflags: -I${includedir} -DGTEST_HAS_PTHREAD=0
